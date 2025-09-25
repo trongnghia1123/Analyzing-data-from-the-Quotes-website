@@ -58,7 +58,4 @@ Thu thập, xử lý và khai phá dữ liệu từ các câu nói của ngườ
 - Scikit-learn, Matplotlib, Seaborn
 - Selenium (hỗ trợ thu thập dữ liệu động)
 
----
-
-## 📁 Cấu trúc thư mục
 
