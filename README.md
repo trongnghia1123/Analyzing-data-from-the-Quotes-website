@@ -1,6 +1,5 @@
 # Analyzing-data-from-the-Quotes-website
-Phân tích dữ liệu từ trang web http://quotes.toscrape.com
-# Khai Phá Dữ Liệu Từ Câu Nói Của Người Nổi Tiếng
+Phân tích dữ liệu từ trang web http://quotes.toscrape.com - Khai Phá Dữ Liệu Từ Câu Nói Của Người Nổi Tiếng
 
 ## Giới thiệu
 
